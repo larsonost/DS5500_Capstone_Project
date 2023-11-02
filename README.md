@@ -1,4 +1,4 @@
-## DS 5500 Phase 1 Report: Automatic Image Captioning
+## DS 5500 Phase 1: Automatic Image Captioning
 
 Many large databases with an abundance of image data suffer from the lack of sufficient labeling, resulting in the inability to optimally search and index its contents. For this project, we plan to develop an application capable of digesting an image and returning a descriptive textual caption to accurately label the image’s contents. Through this solution, we will significantly improve the ability for images in a database to gain visibility through text-based search, the ability to search a database with an image, and enhance the relevancy of results by providing more accurate and relevant searches. This application can be particularly beneficial for eCommerce platforms, where the volume of images is immense and proper labeling is crucial for efficient product discovery and customer satisfaction.
 
